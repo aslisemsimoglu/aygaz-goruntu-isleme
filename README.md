@@ -67,7 +67,7 @@ Bu proje kapsamında, **10 farklı hayvan türünü** sınıflandırmak için **
 
 ### 📈 **Sonuçlar**
 
-Bu proje kapsamında, Transfer Learning ve Fine-Tuning kullanarak **hayvan türlerini sınıflandırma** problemini başarıyla çözdük. Modelimiz, test setinde **%95+ doğruluk oranı** ile etkili sonuçlar vermiştir.
+Bu proje kapsamında, Transfer Learning ve Fine-Tuning kullanarak **hayvan türlerini sınıflandırma** problemini başarıyla çözdük. Modelimiz, test setinde **%93 doğruluk oranı** ile etkili sonuçlar vermiştir.
 
 ----------
 
